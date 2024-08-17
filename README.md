@@ -1,6 +1,5 @@
 # 🎥📈 Predictive Analytics for Movie Success and Employee Retention 🎬🏢
 
-![Project Banner](https://path-to-your-banner-image)
 
 ---
 
